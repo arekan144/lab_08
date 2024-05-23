@@ -1,0 +1,13 @@
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://192.168.50.15:3306/carshows</property>
+        <property name="hibernate.connection.username">con</property>
+        <property name="hibernate.connection.password">zaq1@WSX</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <mapping class="carshow.CarShowroom"/>
+        <mapping class="carshow.Vehicle"/>
+
+    </session-factory>
+</hibernate-configuration>

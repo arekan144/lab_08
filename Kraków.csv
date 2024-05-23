@@ -1,0 +1,6 @@
+﻿nazwa_salonu;maks_ilosc;;;;;
+Kraków;26;;;;;
+marka;model;cena;rok_produkcji;przebieg;pojemnosc_silnika;ilosc
+TEST;tEGT;199000.0;2014;2314.0;400.0;1
+PEST;kESD;199000.0;2013;634.0;700.0;1
+TEST;lEST;199000.0;2012;121.0;533.0;1
